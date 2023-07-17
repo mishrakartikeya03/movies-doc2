@@ -4,3 +4,8 @@ inox
 carnival
 imax
 cineples
+
+payal
+jhankar
+avatar
+
