@@ -20,5 +20,10 @@ tere bin
 gadar ek prem katha
 jab prem ki gajab kahani
 Jab we met Love Aj kl
+<<<<<<< HEAD
 Hell Boy 2
 Phir hera Pheri
+=======
+Ek tha tiger 3
+OMG 2
+>>>>>>> eb864f883df9ac7c7253d9bb0a5afa91806db8ab
